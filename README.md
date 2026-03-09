@@ -3,4 +3,4 @@ Small python files organized by topic
 
 ## Run
 '''bash
-python filename.oy
+python filename.py
